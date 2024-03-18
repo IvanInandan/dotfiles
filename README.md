@@ -1,7 +1,3 @@
-# .dotfiles - Macos
-
-Managed with stow
-
 # Showcase
 
 ![Desktop](./assets/Desktop.png)
@@ -44,14 +40,7 @@ stow sketchybar
 
 ## SKHD
 
-Yabai is a tiling window manager. I find it difficult to navigate between windows on Mac, especially because it doensn't have advanced window snapping built-in.
-By using a tiling window manager, I can control all of my windows just by using a keyboard in combination with [SKHD](#skhd).
-
-Some of the apps are ignored by Yabai's tiling window manager system, as they were causing trouble when used with Yabai. E.g. Unity.
-
-I use Yabai with SIP enabled.
-
-I have dual monitor configuration with following workspace setup (mostly for game development):
+The following are a synposis of all hotkeys defined by SKHD
 
 ### Workspaces
 |Shortcut|Workspace|
@@ -88,9 +77,3 @@ brew services start skhd
 ```
 
 (Copied from [yabai GitHub](<https://github.com/koekeishiya/yabai/wiki/Installing-yabai-(latest-release)>) and [skhd GitHub](https://github.com/koekeishiya/skhd))
-
-## zsh
-
-```bash
-stow zsh
-```
