@@ -58,7 +58,6 @@ export POPUP_BORDER_COLOR=$WHITE
 export SHADOW_COLOR=$BLACK
 
 # Gruvbox Dark (Hard) Color Palette
-
 export COLOR_BACKGROUND=0xe01d2021
 export COLOR_FOREGROUND=0xe0fbf1c7
 
