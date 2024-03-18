@@ -4,7 +4,7 @@ Managed with stow
 
 # Showcase
 
-![Desktop](./Documents/GreenRice.png)
+![Desktop](./assets/Desktop.png)
 
 # Macos Settings
 
