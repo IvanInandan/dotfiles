@@ -1,0 +1,43 @@
+.zshrc.pre-oh-my-zsh
+.zshrc.omz-uninstalled-2024-03-11_10-47-15
+.zsh_history
+.zprofile
+.zcompdump-Ivan’s MacBook Pro-5.9
+'.zcompdump-Ivan’s MacBook Pro-5.9'
+".zcompdump-Ivan’s MacBook Pro-5.9"
+.zcompdump
+.yabairc*
+.viminfo
+.skhdrc*
+.profile
+.pipes_scores
+.lesshst
+.gitconfig
+.fzf.zsh
+.fzf.bash
+.bashrc
+.DS_Store
+.CFUserTextEncoding
+repos/
+code/
+Public/
+Pictures/
+Music/
+Movies/
+Library/
+Downloads/
+Documents/
+Desktop/
+Applications/
+.zsh_sessions/
+.vscode/
+.terminfo/
+.ssh/
+.spicetify/
+.oh-my-zsh/
+.npm/
+.local/
+.fig/
+.codewhisperer.dotfiles.bak/
+.cache/
+.Trash/
