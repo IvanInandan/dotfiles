@@ -12,6 +12,7 @@
 .profile
 .pipes_scores
 .lesshst
+.gitignore_global
 .gitconfig
 .fzf.zsh
 .fzf.bash
